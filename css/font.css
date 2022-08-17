@@ -1,12 +1,13 @@
 
+
 /* Default font for body */
 body {
-    font-family: "Alata", serif !important;
+    font-family: "Alata", sans-serif !important;
 }
 
 /* secondary font */
 .secondary-font, #secondary-font {
-    font-family: "Roboto", serif;
+    font-family: "Roboto", sans-serif;
 }
 
 /* primary font */
